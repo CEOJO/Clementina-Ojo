@@ -5,11 +5,9 @@
 I hold a Master's of Arts in Criminology & Criminal Justice, Administration of Justice (May 2022). I have experience working in a variety of settings including the Missouri Public Defenders Office and the Belize Magistrate Court as an intern/volunteer, where I was able to observe policy impact and various aspects of the criminal justice process. I have also participated in research projects exploring a number of criminal justice issues and possible solutions. As for my future, I hope to work in policy analysis, with a diverse team in order to bring about policy level change. I have strong skills in oration, data entry and analysis, research synthesis and analysis, data extraction, as well as proficiency with data analytics softwares, such as SQL, Salesforce, Tableau, Excel. In my free time, you can find me exercising, dancing with friends, reading a James Patterson book.
 
 <img width="804" alt="Screen Shot 2023-10-18 at 11 53 20 AM" src="https://github.com/CEOJO/ceojo.github.io/assets/118863725/86cad600-8d8d-44ad-ac00-14596c15075b"> 
-
                     Connect with me on LinkedIn: https://www.linkedin.com/in/clementina-ojo-73a592193/ 
 
 <img width="1440" alt="Screen Shot 2023-10-18 at 11 54 51 AM" src="https://github.com/CEOJO/ceojo.github.io/assets/118863725/14d1fd35-ee38-45be-b2c1-6099ad7d70d4"> 
-
                 View my Vizzes on my Tableau public profile: https://public.tableau.com/app/profile/clem.odenore/vizzes
                                                                   
                                                         [INDEPENDENT PROJECTS]	
