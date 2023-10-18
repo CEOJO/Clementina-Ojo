@@ -5,9 +5,9 @@ I hold a Master's of Arts in Criminology & Criminal Justice, Administration of J
           <img width="1440" alt="Screen Shot 2023-10-18 at 11 54 51 AM" src="https://github.com/CEOJO/ceojo.github.io/assets/118863725/14d1fd35-ee38-45be-b2c1-6099ad7d70d4"> 
                                                                           View my Vizzes on my Tableau public profile
                                                                   
-                                                                  INDEPENDENT PROJECTS	
-Built a Website Boilerplate with Bash
-Executed terminal commands to create a website boilerplate using only the command line 
+                                                                             INDEPENDENT PROJECTS	
+**Built a Website Boilerplate with Bash
+**Executed terminal commands to create a website boilerplate using only the command line 
 Applied commands such as ‘mkdir’, ‘cd’, ‘ls’, ‘rm’, ‘cp’ to create, manage and organize directories
 Built Mario video game character database using PostgreSQL
 Created a PostgreSQL relational database by writing and executing queries to input data into the database, using DML/DDL commands: ‘INSERT’, ‘SELECT’, ‘ALTER TABLE’
