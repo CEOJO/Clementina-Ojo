@@ -44,6 +44,15 @@ Data ethics is not a mere afterthought but a fundamental pillar of responsible d
 
 VIEW FULL ARTICLE ON MEDIUM (https://medium.com/@clementinaojo/the-crucial-role-of-data-ethics-in-data-analytics-9c3443e43872)
 
+                                                  [PUBLICATIONS]
+
+<img width="1439" alt="Screen Shot 2023-10-18 at 12 54 14 PM" src="https://github.com/CEOJO/ceojo.github.io/assets/118863725/dd09684d-1590-4c79-a6cd-adc4ef361b85">
+Accepted for publication by the Journal of the Society for Social Work and Research
+
+READ FULL SCHOLARLY ARTICLE HERE https://www.journals.uchicago.edu/doi/10.1086/723883
+
+
+
 
                                                        
 
