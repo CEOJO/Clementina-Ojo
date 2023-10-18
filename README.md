@@ -24,6 +24,7 @@ MARIO GAME DATABASE BUILT USING POSTGRESQL
 | Created a PostgreSQL relational database by writing and executing queries to input data into the database, using DML/DDL commands: ‘INSERT’, ‘SELECT’, ‘ALTER TABLE’ | 
 
                                                        [BLOG ARTICLES]	
+
 THE CRUCIAL ROLE OF DATA ETHICS IN DATA ANALYTICS
 
 Introduction
