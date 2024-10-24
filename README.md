@@ -22,18 +22,18 @@ I hold a Master's of Science in Data Science, with experience in data analysis a
                                                                   
                                                         [INDEPENDENT PROJECTS]	
                                                         
-## WEBSITE BOILERPLATE BUILT WITH BASH SCRIPT LANGAUGE
+### WEBSITE BOILERPLATE BUILT WITH BASH SCRIPT LANGAUGE
 
 | Executed terminal commands to create a website boilerplate using only the command line |
 | Applied commands such as ‘mkdir’, ‘cd’, ‘ls’, ‘rm’, ‘cp’ to create, manage and organize directories |
 
-## MARIO GAME DATABASE BUILT USING POSTGRESQL 
+### MARIO GAME DATABASE BUILT USING POSTGRESQL 
 
 | Created a PostgreSQL relational database by writing and executing queries to input data into the database, using DML/DDL commands: ‘INSERT’, ‘SELECT’, ‘ALTER TABLE’ | 
 
                                                        [BLOG ARTICLES]	
 
-THE CRUCIAL ROLE OF DATA ETHICS IN DATA ANALYTICS
+## THE CRUCIAL ROLE OF DATA ETHICS IN DATA ANALYTICS
 
 Introduction
 
