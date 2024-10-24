@@ -57,13 +57,13 @@ This project examined percentage of world population by country based on country
 
 ### <a href="https://github.com/CEOJO/website-boilerplate-">Website Boilerplate  Built with Bash Script Language</a>
 
-| Executed terminal commands to create a website boilerplate using only the command line |
-| Applied commands such as ‘mkdir’, ‘cd’, ‘ls’, ‘rm’, ‘cp’ to create, manage and organize directories |
+Executed terminal commands to create a website boilerplate using only the command line 
+Applied commands such as ‘mkdir’, ‘cd’, ‘ls’, ‘rm’, ‘cp’ to create, manage and organize directories
 
 
 ### <a href="https://github.com/CEOJO/mariodatabase">Mario Game Database Built using POSTGRESQL</a>
 
-| Created a PostgreSQL relational database by writing and executing queries to input data into the database, using DML/DDL commands: ‘INSERT’, ‘SELECT’, ‘ALTER TABLE’ | 
+Created a PostgreSQL relational database by writing and executing queries to input data into the database, using DML/DDL commands: ‘INSERT’, ‘SELECT’, ‘ALTER TABLE’
 
 
 ## <a href="https://public.tableau.com/app/profile/clem.odenore/vizzes">VIEW MY VIZZES ON MY TABLEAU PUBLIC PROFILE</a>
