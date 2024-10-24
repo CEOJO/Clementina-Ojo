@@ -1,6 +1,6 @@
 ![IMG_2828_Original 2](https://github.com/CEOJO/ceojo.github.io/assets/118863725/c9f59f7e-2acb-4a5e-ab32-9177bd798d89) 
                   
-                  CLEMENTINA OJO(M.A.), BELIZEAN NATIVE, WITH A PASSION FOR RESEARCH AND DATA ANALYTICS.
+                  CLEMENTINA OJO(M.S.), BELIZEAN NATIVE, WITH A PASSION FOR RESEARCH AND DATA ANALYTICS.
 
 I hold a Master's of Science in Data Science and have experience in data analysis and continuous quality improvement. I have also participated in research projects exploring a number of criminal justice issues and possible solutions. In the future, I hope to use data to inform change in legislation. I have strong skills in oration, data entry and analysis, research synthesis and analysis, data extraction, as well as proficiency with data analytics softwares, such as SQL, Salesforce, Tableau, Excel. In my free time, you can find me exercising, dancing with friends or reading.
 
