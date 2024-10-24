@@ -12,7 +12,7 @@ I hold a Master's of Science in Data Science, with experience in data analysis a
   <img width="804" alt="Screen Shot 2023-10-18 at 11 53 20 AM" src="https://github.com/CEOJO/ceojo.github.io/assets/118863725/86cad600-8d8d-44ad-ac00-14596c15075b"> 
 </p>
                                                                   
-                                                        [INDEPENDENT PROJECTS]	
+                                                [INDEPENDENT PROJECTS]	
                                                         
 
 ### <a href="https://github.com/CEOJO/Automating-Crypto-Website-API-Pull-Using-Python">Automating Crypto Website API Pull Using Python</a>
@@ -69,7 +69,7 @@ This project examined percentage of world population by country based on country
 ## <a href="https://public.tableau.com/app/profile/clem.odenore/vizzes">VIEW MY VIZZES ON MY TABLEAU PUBLIC PROFILE</a>
 ![Screen Shot 2024-10-24 at 12 35 31 PM](https://github.com/user-attachments/assets/d79fcad9-38d9-434e-becf-0d431d6283d8)
 
-                                                       [BLOG ARTICLES]	
+                                                [BLOG ARTICLES]	
 
 ## THE CRUCIAL ROLE OF DATA ETHICS IN DATA ANALYTICS
 
