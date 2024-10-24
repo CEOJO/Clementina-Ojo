@@ -6,7 +6,7 @@
 
 
 <p align="center"> 
-I hold a Master's of Science in Data Science, with experience in data analysis and continuous quality improvement. I have also participated in research projects exploring a number of criminal justice issues and possible solutions. In the future, I hope to use data to inform change in legislation. I have strong skills in oration, data entry and analysis, research synthesis and analysis, data extraction, as well as proficiency with data analytics softwares, such as SQL, Salesforce, Tableau, Excel. In my free time, you can find me exercising, dancing with friends or reading. <a href="https://www.linkedin.com/in/clementina-ojo-73a592193/">Connect with me on LinkedIn</a> 
+I hold a Master's of Science in Data Science, with experience in data analysis and continuous quality improvement. I have also participated in research projects exploring a number of criminal justice issues and possible solutions. In the future, I hope to use data to inform change in legislation. I have strong skills in oration, data entry and analysis, research synthesis and analysis, data extraction, as well as proficiency with data analytics softwares, such as SQL, Salesforce, Tableau, Excel. In my free time, you can find me exercising, dancing with friends or reading. <a href="https://www.linkedin.com/in/clementina-ojo-ma-73a592193/">Connect with me on LinkedIn</a> 
 </p>
 <p align="center">
   <img width="804" alt="Screen Shot 2023-10-18 at 11 53 20 AM" src="https://github.com/CEOJO/ceojo.github.io/assets/118863725/86cad600-8d8d-44ad-ac00-14596c15075b"> 
@@ -14,7 +14,7 @@ I hold a Master's of Science in Data Science, with experience in data analysis a
                                                                   
                                                         [INDEPENDENT PROJECTS]	
                                                         
-### <a href="https://github.com/CEOJO/Student-Data-Analysis">Student Financial Data Analysis</a>
+### <a href="https://github.com/CEOJO/Student-Data-Analysis">Student Financial Data Analysis using Python Script Language</a>
 This project examines students' financial circumstances. 
 The data should provide an idea of the direction of students' cash flow, through the use of matplotlib and seaborn line and bar plots.
 
@@ -32,12 +32,12 @@ This project demonstrates proficiency in data analysis using SQL through advance
 This project examined percentage of world population by country based on country population over years. The data was loaded from a url to a pandas dataframe and analyzed using python script.
 
 
-### <a href="https://github.com/CEOJO/website-boilerplate-">WEBSITE BOILERPLATE BUILT WITH BASH SCRIPT LANGAUGE</a>
+### <a href="https://github.com/CEOJO/website-boilerplate-">Website Boilerplate  Built with Bash Script Language</a>
 
 | Executed terminal commands to create a website boilerplate using only the command line |
 | Applied commands such as ‘mkdir’, ‘cd’, ‘ls’, ‘rm’, ‘cp’ to create, manage and organize directories |
 
-### <a href="https://github.com/CEOJO/mariodatabase">MARIO GAME DATABASE BUILT USING POSTGRESQL</a>
+### <a href="https://github.com/CEOJO/mariodatabase">Mario Game Database Built using POSTGRESQL</a>
 
 | Created a PostgreSQL relational database by writing and executing queries to input data into the database, using DML/DDL commands: ‘INSERT’, ‘SELECT’, ‘ALTER TABLE’ | 
 
