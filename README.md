@@ -8,7 +8,7 @@ I hold a Master's of Science in Data Science and have experience in data analysi
 
                     Connect with me on LinkedIn: https://www.linkedin.com/in/clementina-ojo-73a592193/ 
 
-  <img width="1440" alt="Screen Shot 2024-10-24 at 12.35.31 PM.png" src="https://github.com/CEOJO/ceojo.github.io/assets/118863725/14d1fd35-ee38-45be-b2c1-6099ad7d70d4"> 
+   ![Screen Shot 2024-10-24 at 12 35 31 PM](https://github.com/user-attachments/assets/d79fcad9-38d9-434e-becf-0d431d6283d8)
   
                 View my Vizzes on my Tableau public profile: https://public.tableau.com/app/profile/clem.odenore/vizzes
                                                                   
