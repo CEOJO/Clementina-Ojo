@@ -14,9 +14,31 @@ I hold a Master's of Science in Data Science, with experience in data analysis a
                                                                   
                                                         [INDEPENDENT PROJECTS]	
                                                         
+
+### <a href="https://github.com/CEOJO/Automating-Crypto-Website-API-Pull-Using-Python">Automating Crypto Website API Pull Using Python</a>
+This Python project uses the CoinMarketCap API to retrieve and display the latest cryptocurrency listings. It fetches real-time data on the top 10 cryptocurrencies, including their market prices, using the requests library. Key functionality includes:
+
+Making API requests to CoinMarketCap for the latest cryptocurrency prices. 
+Handling common errors such as ConnectionError, Timeout, and TooManyRedirects. 
+Utilizing JSON to parse and handle API responses. 
+
+This project showcases API integration and error handling, ideal for tracking cryptocurrency market trends in real-time.
+
+
+### <a href="https://github.com/CEOJO/Amazon-Web-Scraping-Using-Python">Amazon Web Scraping Using Python</a>
+This Python project demonstrates web scraping capabilities using requests and BeautifulSoup to extract product details from Amazon. Specifically, it pulls in the product title and price of a specified item. Key features include:
+
+Sending an HTTP GET request to an Amazon product page using a custom User-Agent header to simulate browser behavior. 
+Parsing the HTML response with BeautifulSoup to extract the product title and price. H
+andling HTML structures and navigating through nested elements for accurate data extraction. 
+
+This project highlights proficiency in web scraping and data extraction from e-commerce platforms.
+
+
 ### <a href="https://github.com/CEOJO/Student-Data-Analysis">Student Financial Data Analysis using Python Script Language</a>
 This project examines students' financial circumstances. 
 The data should provide an idea of the direction of students' cash flow, through the use of matplotlib and seaborn line and bar plots.
+
 
 ### <a href="https://github.com/CEOJO/SQL-Supermarket-Project">SQL Supermarket Project</a>
 This project models a supermarket database using SQL to analyze product sales, reorder patterns, and shopper behavior. Key database structures include products, aisles, departments, orders, and order_product. The dataset is loaded using SQL Data Manipulation Language (DML) from CSV files and includes analysis tasks such as:
@@ -28,6 +50,7 @@ Extracting the most common shopping paths based on aisle selections.
 Analyzing product pair associations frequently bought together.
 This project demonstrates proficiency in data analysis using SQL through advanced queries, including joins, subqueries, and ranking logic.
 
+
 ### <a href="https://github.com/CEOJO/Exploratoray-Data-Analysis-in-Pandas">Exploratory Data Analysis in Pandas</a>
 This project examined percentage of world population by country based on country population over years. The data was loaded from a url to a pandas dataframe and analyzed using python script.
 
@@ -37,9 +60,11 @@ This project examined percentage of world population by country based on country
 | Executed terminal commands to create a website boilerplate using only the command line |
 | Applied commands such as ‘mkdir’, ‘cd’, ‘ls’, ‘rm’, ‘cp’ to create, manage and organize directories |
 
+
 ### <a href="https://github.com/CEOJO/mariodatabase">Mario Game Database Built using POSTGRESQL</a>
 
 | Created a PostgreSQL relational database by writing and executing queries to input data into the database, using DML/DDL commands: ‘INSERT’, ‘SELECT’, ‘ALTER TABLE’ | 
+
 
 ## <a href="https://public.tableau.com/app/profile/clem.odenore/vizzes">VIEW MY VIZZES ON MY TABLEAU PUBLIC PROFILE</a>
 ![Screen Shot 2024-10-24 at 12 35 31 PM](https://github.com/user-attachments/assets/d79fcad9-38d9-434e-becf-0d431d6283d8)
