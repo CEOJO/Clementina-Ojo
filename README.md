@@ -22,10 +22,23 @@ I hold a Master's of Science in Data Science, with experience in data analysis a
                                                                   
                                                         [INDEPENDENT PROJECTS]	
                                                         
-# <a href="https://github.com/CEOJO/Student-Data-Analysis">Student Financial Data Analysis</a>
+### <a href="https://github.com/CEOJO/Student-Data-Analysis">Student Financial Data Analysis</a>
 This project examines students' financial circumstances. 
-The data should provide an idea of the direction of students' cash flow, 
-through the use of matplotlib and seaborn line and bar plots.
+The data should provide an idea of the direction of students' cash flow, through the use of matplotlib and seaborn line and bar plots.
+
+### <a href="https://github.com/CEOJO/SQL-Supermarket-Project">SQL Supermarket Project</a>
+This project models a supermarket database using SQL to analyze product sales, reorder patterns, and shopper behavior. Key database structures include products, aisles, departments, orders, and order_product. The dataset is loaded using SQL Data Manipulation Language (DML) from CSV files and includes analysis tasks such as:
+
+Identifying the top 10 products sold per weekday.
+Finding the 5 most popular products per aisle (Monday-Friday).
+Ranking products with the highest reorder rates.
+Extracting the most common shopping paths based on aisle selections.
+Analyzing product pair associations frequently bought together.
+This project demonstrates proficiency in data analysis using SQL through advanced queries, including joins, subqueries, and ranking logic.
+
+### <a href="https://github.com/CEOJO/Exploratoray-Data-Analysis-in-Pandas">Exploratory Data Analysis in Pandas</a>
+This project examined percentage of world population by country based on country population over years. The data was loaded from a url to a pandas dataframe and analyzed using python script.
+
 
 ### WEBSITE BOILERPLATE BUILT WITH BASH SCRIPT LANGAUGE
 
