@@ -14,8 +14,10 @@ I hold a Master's of Science in Data Science and have experience in data analysi
                     Connect with me on LinkedIn: https://www.linkedin.com/in/clementina-ojo-73a592193/ 
 
    ![Screen Shot 2024-10-24 at 12 35 31 PM](https://github.com/user-attachments/assets/d79fcad9-38d9-434e-becf-0d431d6283d8)
-  
-                <a href="https://public.tableau.com/app/profile/clem.odenore/vizzes">View my Vizzes on my Tableau public profile: https://public.tableau.com/app/profile/clem.odenore/vizzes</a>
+
+<p align="center">
+<a href="https://public.tableau.com/app/profile/clem.odenore/vizzes">View my Vizzes on my Tableau public profile: https://public.tableau.com/app/profile/clem.odenore/vizzes</a>
+</p>
                                                                   
                                                         [INDEPENDENT PROJECTS]	
                                                         
