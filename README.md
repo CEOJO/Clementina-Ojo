@@ -11,14 +11,6 @@ I hold a Master's of Science in Data Science, with experience in data analysis a
 <p align="center">
   <img width="804" alt="Screen Shot 2023-10-18 at 11 53 20 AM" src="https://github.com/CEOJO/ceojo.github.io/assets/118863725/86cad600-8d8d-44ad-ac00-14596c15075b"> 
 </p>
-                    
-
-# <a href="https://public.tableau.com/app/profile/clem.odenore/vizzes">VIEW MY VIZZES ON MY TABLEAU PUBLIC PROFILE</a>
-   
-
-![Screen Shot 2024-10-24 at 12 35 31 PM](https://github.com/user-attachments/assets/d79fcad9-38d9-434e-becf-0d431d6283d8)
-
-
                                                                   
                                                         [INDEPENDENT PROJECTS]	
                                                         
@@ -40,14 +32,17 @@ This project demonstrates proficiency in data analysis using SQL through advance
 This project examined percentage of world population by country based on country population over years. The data was loaded from a url to a pandas dataframe and analyzed using python script.
 
 
-### WEBSITE BOILERPLATE BUILT WITH BASH SCRIPT LANGAUGE
+### <a href="https://github.com/CEOJO/website-boilerplate-">WEBSITE BOILERPLATE BUILT WITH BASH SCRIPT LANGAUGE</a>
 
 | Executed terminal commands to create a website boilerplate using only the command line |
 | Applied commands such as ‘mkdir’, ‘cd’, ‘ls’, ‘rm’, ‘cp’ to create, manage and organize directories |
 
-### MARIO GAME DATABASE BUILT USING POSTGRESQL 
+### <a href="https://github.com/CEOJO/mariodatabase">MARIO GAME DATABASE BUILT USING POSTGRESQL</a>
 
 | Created a PostgreSQL relational database by writing and executing queries to input data into the database, using DML/DDL commands: ‘INSERT’, ‘SELECT’, ‘ALTER TABLE’ | 
+
+## <a href="https://public.tableau.com/app/profile/clem.odenore/vizzes">VIEW MY VIZZES ON MY TABLEAU PUBLIC PROFILE</a>
+![Screen Shot 2024-10-24 at 12 35 31 PM](https://github.com/user-attachments/assets/d79fcad9-38d9-434e-becf-0d431d6283d8)
 
                                                        [BLOG ARTICLES]	
 
