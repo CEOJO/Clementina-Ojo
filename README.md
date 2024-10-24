@@ -22,8 +22,10 @@ I hold a Master's of Science in Data Science, with experience in data analysis a
                                                                   
                                                         [INDEPENDENT PROJECTS]	
                                                         
-
-
+# <a href="https://github.com/CEOJO/Student-Data-Analysis">Student Financial Data Analysis</a>
+This project examines students' financial circumstances. 
+The data should provide an idea of the direction of students' cash flow, 
+through the use of matplotlib and seaborn line and bar plots.
 
 ### WEBSITE BOILERPLATE BUILT WITH BASH SCRIPT LANGAUGE
 
