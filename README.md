@@ -2,7 +2,7 @@
                   
                   CLEMENTINA OJO(M.A.), BELIZEAN NATIVE, WITH A PASSION FOR RESEARCH AND DATA ANALYTICS.
 
-I hold a Master's of Science in Data Science. I have experience working in a variety of settings including the Missouri Public Defenders Office and the Belize Magistrate Court as an intern/volunteer, where I was able to observe policy impact and various aspects of the criminal justice process. I have also participated in research projects exploring a number of criminal justice issues and possible solutions. As for my future, I hope to work in policy analysis, with a diverse team in order to bring about policy level change. I have strong skills in oration, data entry and analysis, research synthesis and analysis, data extraction, as well as proficiency with data analytics softwares, such as SQL, Salesforce, Tableau, Excel. In my free time, you can find me exercising, dancing with friends, reading a James Patterson book.
+I hold a Master's of Science in Data Science and have experience in data analysis and continuous quality improvement. I have also participated in research projects exploring a number of criminal justice issues and possible solutions. In the future, I hope to use data to inform change in legislation. I have strong skills in oration, data entry and analysis, research synthesis and analysis, data extraction, as well as proficiency with data analytics softwares, such as SQL, Salesforce, Tableau, Excel. In my free time, you can find me exercising, dancing with friends or reading.
 
   <img width="804" alt="Screen Shot 2023-10-18 at 11 53 20 AM" src="https://github.com/CEOJO/ceojo.github.io/assets/118863725/86cad600-8d8d-44ad-ac00-14596c15075b"> 
 
